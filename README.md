@@ -1,4 +1,4 @@
-# GPS-Denied Surveillance Drone with Optical Communication
+# Prototype of Surveillance Drone with Optical Communication for GPS-Denied scenario
 
 <p align="center">
   <img src="media/team/imc25_team.jpg" width="850" alt="Team at IMC 2025">
@@ -85,7 +85,7 @@ Accurate optical communication requires the drone to maintain a sufficiently sta
 
 An **optical flow sensor** was therefore tested for position stabilization.
 
-Optical flow estimates relative motion by observing the movement of visual features on the ground. This information can be used by the drone's flight-control system to reduce horizontal drift, particularly where GPS positioning is unavailable.
+Optical flow estimates relative motion by observing the movement of visual features on the ground. This information can be used by the drone's flight-control system to reduce horizontal drift, particularly for position hold, where GPS positioning is unavailable.
 
 ### Demonstration
 
@@ -240,7 +240,7 @@ These measurements were obtained from the experimental prototype under laborator
 
 ---
 
-## Demo 2 — GPS-Denied Position Stabilization
+## Demo 2 — Optical flow Position Stabilization
 
 **Objective:** Demonstrate position stabilization using optical flow rather than GPS position feedback.
 
@@ -290,7 +290,7 @@ The weapon detector should therefore be viewed as an **example information-gener
 
 The core project is the integration of:
 
-**Aerial Surveillance + Computer Vision + GPS-Denied Stabilization + Optical Wireless Communication**
+**Aerial Surveillance + Computer Vision + Optical Flow Stabilization + Optical Wireless Communication**
 
 rather than weapon detection alone.
 
