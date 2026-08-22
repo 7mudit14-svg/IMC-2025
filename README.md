@@ -430,3 +430,5 @@ IMC-2025/
 ## Disclaimer
 
 This repository documents an **experimental academic prototype**. It is not a production-ready navigation, surveillance, or defence system. Performance figures correspond to prototype experiments conducted under the specific test conditions described above.
+
+ **Ownership Notice:** This project is completely owned by the institute and Dr. Divyang Rawal. This repository is maintained only for documentation and demonstration purposes.
